@@ -1,0 +1,36 @@
+{
+  "id": "pf2e-dark-sun-traits",
+  "title": "PF2e Dark Sun traits",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  }
+}
+"flags": {
+  "pf2e-dark-sun-traits": {
+    "pf2e-homebrew": {
+      "weaponTraits": {
+        "Inferior": {
+          "label": "Inferior",
+          "description": " Weapons constructed from inferior materials, such as bone longsword or an axe with a head made from stone, suffer a –1 penalty to attack and damage rolls."
+        },
+        "Deadly": {
+          "label": "Deadly",
+          "description": "All Stone weapons include the deadly trait with a die size one higher than the base weapon to a maximum of d12. If the weapon already includes the deadly trait, increase the die size by one to a maximum of d12. If the weapon has fatal, increase the die size by one to a maximum of d12."
+      },
+        "Flaw": {
+          "label": "Flaw",
+          "description": " A player can choose to reroll a critical miss or on a critical hit can choose to do max damage, if a player chooses this effect the weapon takes 1d6 damage and reduces max hitpoints by 1."
+        },
+        "return": {
+          "label": "Return",
+          "description": "A weapon with this trait..."
+        }
+      }
+    }
+  }
+  "url": "https://github.com/0hia/pf2e-dark-sun-traits",
+  "manifest": "https://raw.githubusercontent.com/0hia/pf2e-dark-sun-traits/master/module.json",
+  "download": "https://github.com/0hia/pf2e-dark-sun-traits/archive/refs/heads/main.zip"}
