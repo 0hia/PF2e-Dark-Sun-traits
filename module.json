@@ -8,7 +8,7 @@
     "maximum": "13"
   },
   "url": "https://github.com/0hia/pf2e-dark-sun-traits",
-  "manifest": "https://raw.githubusercontent.com/0hia/pf2e-dark-sun-traits/master/module.json",
+  "manifest": "https://github.com/0hia/PF2e-Dark-Sun-traits/blob/main/module.json",
   "download": "https://github.com/0hia/PF2e-Dark-Sun-traits/blob/main/pf2e-dark-sun-traits.zip",
   "flags": {
     "pf2e-dark-sun-traits": {
